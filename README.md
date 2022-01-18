@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my fucking life.
 - 🌱 I’m currently learning parsers, iterpreters, compilers and math.
 - 💬 Ask me about my day<!-- ~~please~~-->.
-- 📫 How to reach me: Discord: @💛Ddystopia🐨#2971
+- 📫 How to reach me: Discord: 💛Ddystopia🗿#2971
 - ⚡ Fun fact: turn around, I'm behind you.
 - 🐜 Also fun fact: I love my ants :3.
 
