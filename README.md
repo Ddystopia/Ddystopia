@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my fucking life.
+- 🔭 I’m currently working on my life.
 - 🌱 I’m currently learning parsers, iterpreters, compilers and math.
 - 💬 Ask me about my day<!-- ~~please~~-->.
 - 📫 How to reach me: Discord: 💛Ddystopia🗿#2971
