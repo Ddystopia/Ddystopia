@@ -4,7 +4,7 @@
 - 🌱 At present I am studying parsers, interpreters, compilers and math.
 - 💬 Ask me about my day<!-- ~~please~~-->.
 - 📫 How to reach me:
-  - Discord: Ddystopia#2971
+  - Discord: ddystopia
   - Telegram: @Ddystopia_0
 - ⚡ Fun fact: turn around, I'm behind you.
 - 🐜 Also fun fact: I love my ants :3.
