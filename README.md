@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I am currently a student at STU.
-- 🌱 At present I am studying parsers, interpreters, compilers and math.
-- 💬 Ask me about my day<!-- ~~please~~-->.
+- 👩‍🏭 Employed at tind.sk as a Rust dev.
+- 🌱 At present I am studying math, Coq, Rust, Compilers and a bunch of other interesting stuff.
+- 💬 Ask me about my day <!-- ~~please~~ -->.
 - 📫 How to reach me:
   - Discord: ddystopia
   - Telegram: @Ddystopia_0
@@ -13,7 +14,6 @@
 [![wtlgo's github stats](https://github-readme-stats.vercel.app/api?username=Ddystopia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Codeward](https://www.codewars.com/users/Ddystopia/badges/large)](https://www.codewars.com/users/Ddystopia)
-<!-- - 🤔 I’m looking for help with my projects. -->
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?theme=cobalt&username=Ddystopia&count_private=truei&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 -->
