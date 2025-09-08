@@ -1,4 +1,4 @@
-I like to write performant and safety-critical software. `malloc`  and `free` is condemned.
+I like to write performant and safety-critical software. `malloc`  and `free` are condemned.
 
 - 💬 Ask me about my day.
 - 📫 How to reach me:
