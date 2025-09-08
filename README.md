@@ -1,14 +1,10 @@
-### Hi there 👋
+I like to write performant and safety-critical software. `malloc`  and `free` is condemned.
 
-- 🔭 I am currently a student at STU.
-- 👩‍🏭 Employed at tind.sk as a Rust dev.
-- 🌱 At present I am studying math, Coq, Rust, Compilers and a bunch of other interesting stuff.
-- 💬 Ask me about my day <!-- ~~please~~ -->.
+- 💬 Ask me about my day.
 - 📫 How to reach me:
-  - Discord: ddystopia
   - Telegram (preferred): @Ddystopia_0
+  - Discord: ddystopia
 - ⚡ Fun fact: turn around, I'm behind you.
-- 🐜 Also fun fact: I love my ants :3.
 
 <!--
 [![wtlgo's github stats](https://github-readme-stats.vercel.app/api?username=Ddystopia&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
